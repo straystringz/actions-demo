@@ -54,4 +54,4 @@ jobs:
 
     - name: Deploy
       run: |
-        # Add your deployment commands here
+        echo "We're ready to deploy to dev"
